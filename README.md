@@ -81,7 +81,7 @@ php artisan migrate
 ## ✅ Upload Payment CSV
 **Endpoint:**
 ```
-POST /api/payments/upload
+POST /api/v2/payments/upload
 ```
 
 **Headers:**
