@@ -122,10 +122,11 @@ This generates customer invoices for the day.
 ```bash
 php artisan payouts:daily
 ```
-
+# ✅ Admin 
+  admin@gmail.com
+  123456789
 
 # ✅ Summary
-
 This README includes:
 ✅ Full installation steps  
 ✅ API usage example  
